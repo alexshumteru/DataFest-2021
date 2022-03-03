@@ -1,4 +1,7 @@
-#About
+# DataFest-2021
+
+## About
+
 This is part of our team's submission for University of Toronto's Data Festival in 2021. The picture below is the final output of our 
 spatial stochastic partial differential equation model (SPDE). 
 
